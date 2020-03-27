@@ -1,0 +1,24 @@
+[03-Feb-2020 15:47:19 UTC] PHP Warning:  include(headproj.php): failed to open stream: No such file or directory in /home/theroboticsforum/public_html/cms1/registerr/index.php on line 8
+[03-Feb-2020 15:47:19 UTC] PHP Warning:  include(): Failed opening 'headproj.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/theroboticsforum/public_html/cms1/registerr/index.php on line 8
+[03-Feb-2020 15:47:19 UTC] PHP Warning:  require(../cms1/includes/db.php): failed to open stream: No such file or directory in /home/theroboticsforum/public_html/cms1/registerr/index.php on line 9
+[03-Feb-2020 15:47:19 UTC] PHP Fatal error:  require(): Failed opening required '../cms1/includes/db.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/theroboticsforum/public_html/cms1/registerr/index.php on line 9
+[03-Feb-2020 15:47:21 UTC] PHP Warning:  include(headproj.php): failed to open stream: No such file or directory in /home/theroboticsforum/public_html/cms1/registerr/index.php on line 8
+[03-Feb-2020 15:47:21 UTC] PHP Warning:  include(): Failed opening 'headproj.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/theroboticsforum/public_html/cms1/registerr/index.php on line 8
+[03-Feb-2020 15:47:21 UTC] PHP Warning:  require(../cms1/includes/db.php): failed to open stream: No such file or directory in /home/theroboticsforum/public_html/cms1/registerr/index.php on line 9
+[03-Feb-2020 15:47:21 UTC] PHP Fatal error:  require(): Failed opening required '../cms1/includes/db.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/theroboticsforum/public_html/cms1/registerr/index.php on line 9
+[03-Feb-2020 15:47:30 UTC] PHP Warning:  include(headproj.php): failed to open stream: No such file or directory in /home/theroboticsforum/public_html/cms1/registerr/index.php on line 8
+[03-Feb-2020 15:47:30 UTC] PHP Warning:  include(): Failed opening 'headproj.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/theroboticsforum/public_html/cms1/registerr/index.php on line 8
+[03-Feb-2020 15:47:30 UTC] PHP Warning:  require(../cms1/includes/db.php): failed to open stream: No such file or directory in /home/theroboticsforum/public_html/cms1/registerr/index.php on line 9
+[03-Feb-2020 15:47:30 UTC] PHP Fatal error:  require(): Failed opening required '../cms1/includes/db.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/theroboticsforum/public_html/cms1/registerr/index.php on line 9
+[03-Feb-2020 15:47:34 UTC] PHP Warning:  include(headproj.php): failed to open stream: No such file or directory in /home/theroboticsforum/public_html/cms1/registerr/index.php on line 8
+[03-Feb-2020 15:47:34 UTC] PHP Warning:  include(): Failed opening 'headproj.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/theroboticsforum/public_html/cms1/registerr/index.php on line 8
+[03-Feb-2020 15:47:34 UTC] PHP Warning:  require(../cms1/includes/db.php): failed to open stream: No such file or directory in /home/theroboticsforum/public_html/cms1/registerr/index.php on line 9
+[03-Feb-2020 15:47:34 UTC] PHP Fatal error:  require(): Failed opening required '../cms1/includes/db.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/theroboticsforum/public_html/cms1/registerr/index.php on line 9
+[03-Feb-2020 15:47:39 UTC] PHP Warning:  include(headproj.php): failed to open stream: No such file or directory in /home/theroboticsforum/public_html/cms1/registerr/index.php on line 8
+[03-Feb-2020 15:47:39 UTC] PHP Warning:  include(): Failed opening 'headproj.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/theroboticsforum/public_html/cms1/registerr/index.php on line 8
+[03-Feb-2020 15:47:39 UTC] PHP Warning:  require(../cms1/includes/db.php): failed to open stream: No such file or directory in /home/theroboticsforum/public_html/cms1/registerr/index.php on line 9
+[03-Feb-2020 15:47:39 UTC] PHP Fatal error:  require(): Failed opening required '../cms1/includes/db.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/theroboticsforum/public_html/cms1/registerr/index.php on line 9
+[03-Feb-2020 15:50:31 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/theroboticsforum/public_html/cms1/registerr/index.php on line 15
+[03-Feb-2020 15:50:33 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/theroboticsforum/public_html/cms1/registerr/index.php on line 15
+[03-Feb-2020 15:50:33 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/theroboticsforum/public_html/cms1/registerr/index.php on line 15
+[03-Feb-2020 15:50:34 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/theroboticsforum/public_html/cms1/registerr/index.php on line 15
